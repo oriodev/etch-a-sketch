@@ -9,3 +9,4 @@ functionality:
 4. reset the board
 
 <img src="/etchasketchdemo.jpg">
+![image](https://github.com/user-attachments/assets/74aff90b-e3a1-45c4-af5c-92da7f6242e9)
