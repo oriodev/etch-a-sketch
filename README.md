@@ -8,5 +8,7 @@ functionality:
 3. paint with random colour
 4. reset the board
 
+![image](https://github.com/user-attachments/assets/a6e8e894-4369-40df-9260-929ff1096062)
+
+
 <img src="/etchasketchdemo.jpg">
-![image](https://github.com/user-attachments/assets/74aff90b-e3a1-45c4-af5c-92da7f6242e9)
